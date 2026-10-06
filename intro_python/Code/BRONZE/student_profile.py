@@ -1,3 +1,4 @@
+# student_profile.py
 # Name: Mazen
 # Date: 2/10/2026
 # Description: This program displays my student profile information.
