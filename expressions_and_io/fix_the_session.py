@@ -1,6 +1,5 @@
 # fix_the_session.py
 # This program reports a user's session time.
- 
 username = input("Username: ")
 #Runtime Error -->TypeError: unsupported operand type(s) for /: 'str' and 'int' total_seconds = input("Session length in seconds: ")
 total_seconds = int(input("Session length in seconds: "))
