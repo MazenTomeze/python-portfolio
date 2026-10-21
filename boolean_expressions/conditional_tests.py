@@ -3,8 +3,8 @@ user = "analyst"
 role = "viewer"
 failed = 3
 port = 22
-print ("Is port == 22 ? I predict True.")
-print (port == 22 )  #--> true
+print ("Is user == 'analyst' ? I predict True.")
+print (user == 'analyst' )  #--> true
 print ("\nIs port > failed ? I predict True.")
 print (port > failed)#--> true
 print ("\nIs failed <= 3 ? I predict True.")
