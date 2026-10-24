@@ -1,13 +1,13 @@
 #truth_research.py
-#False -->  في بايثون النصوص الفارغة تعتبر False
+#False -->  In Python, empty text is considered False
 print (bool(""))
-#True --> أي نص غير فارغ في بايثون تعتبرTrue
+#True --> Any not empty text in Python is considered True
 print (bool("0"))
-#False --> الرقم الصحيح 0 يعتبر False
+#False --> The number 0 is considered False
 print (bool(0))
-#False --> الرقم العشري 0.0 يعتبر False
+#False --> The decimal number 0.0 is considered False
 print (bool(0.0))
-#True --> نص غير فارغ يحتوي على أحرف يعتبر True
+#True --> Any text that is not empty in Python is considered True
 print (bool("False"))
 
 
